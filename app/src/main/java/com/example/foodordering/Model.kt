@@ -1,0 +1,4 @@
+package com.example.foodordering
+
+class Model (val title:String, val description:String, val img:Int){
+}
